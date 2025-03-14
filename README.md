@@ -19,6 +19,6 @@ Things to turn in:
 - Azure or Vercel
 - Github
 
-## Reviewed by: 
+## Reviewed by: Tanush Kumar 
 
-> Comments:
+> Comments: Looks good could use slight changes on the styling otheriwse works well

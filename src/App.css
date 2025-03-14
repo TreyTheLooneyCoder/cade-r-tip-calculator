@@ -1,0 +1,47 @@
+.bg-veryLightGrayishCyan {
+    background-color: hsl(189, 41%, 97%);
+}
+
+.veryLightGrayishCyan {
+    color: hsl(189, 41%, 97%);
+}
+
+.bg-lightGrayishCyan {
+    background-color: hsl(185, 41%, 84%);
+}
+
+.lightGrayishCyan {
+    color: hsl(185, 41%, 84%);
+}
+
+.bg-grayishCyan {
+    background-color: hsl(184, 14%, 56%);
+}
+
+.grayishCyan {
+    color: hsl(184, 14%, 56%);
+}
+
+.bg-darkGrayishCyan {
+    background-color: hsl(186, 14%, 43%);
+}
+
+.darkGrayishCyan {
+    color: hsl(186, 14%, 43%);
+}
+
+.bg-veryDarkGrayishCyan {
+    background-color: hsl(183, 100%, 15%);
+}
+
+.veryDarkGrayishCyan {
+    color: hsl(183, 100%, 15%);
+}
+
+.bg-strongCyan {
+    background-color: hsl(172, 67%, 45%);
+}
+
+.strongCyan {
+    color: hsl(172, 67%, 45%);
+}
